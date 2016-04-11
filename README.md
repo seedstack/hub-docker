@@ -1,4 +1,4 @@
-SeedStack.hub is a social platform for discovering and sharing software components.
+SeedStack.hub is a social platform to discover and share software components.
 
 This hub is using a Mongo Database. 
 
